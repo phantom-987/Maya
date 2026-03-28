@@ -1,0 +1,13 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Frontend
+maya-frontend/node_modules/
+maya-frontend/.env
+maya-frontend/build/
+
+# General
+.DS_Store
+*.pyc
