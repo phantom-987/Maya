@@ -4,17 +4,6 @@ Maya is a full-stack AI-powered sentiment analysis web application that analyzes
 
 ---
 
-## 🌟 Features
-
-- 🎭 **Emotion Analysis** — Detects happiness, sadness, fear, excitement, neutral, and down
-- 🤖 **Animated Robot** — Reacts to your emotions with expressions and spoken responses
-- 🎤 **Voice Input** — Speak your thoughts instead of typing
-- 📊 **Interactive Charts** — Radar chart and bar graph for emotion breakdown
-- 💬 **ARIA Chatbot** — AI assistant to guide you through the app
-- 🌙 **Light / Dark Mode** — Toggle between themes seamlessly
-- ✨ **Falling Stars Background** — Immersive animated starfield
-
----
 
 ## 🗂️ Project Structure
 
